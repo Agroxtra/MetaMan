@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5BA86A132376FC5500F7DD7D /* FileMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA86A122376FC5500F7DD7D /* FileMetadata.swift */; };
+		5BA86A142376FEF000F7DD7D /* FileMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA86A122376FC5500F7DD7D /* FileMetadata.swift */; };
 		5BA9328F2376BA780074C186 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA9328E2376BA780074C186 /* AppDelegate.swift */; };
 		5BA932912376BA780074C186 /* DocumentBrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA932902376BA780074C186 /* DocumentBrowserViewController.swift */; };
 		5BA932932376BA780074C186 /* DocumentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA932922376BA780074C186 /* DocumentViewController.swift */; };
@@ -44,6 +46,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5BA86A122376FC5500F7DD7D /* FileMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileMetadata.swift; sourceTree = "<group>"; };
 		5BA9328B2376BA780074C186 /* MetaMan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MetaMan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BA9328E2376BA780074C186 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5BA932902376BA780074C186 /* DocumentBrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentBrowserViewController.swift; sourceTree = "<group>"; };
@@ -120,6 +123,7 @@
 				5BBEB7FC2376CEBD00B93F09 /* ShareViewController.swift */,
 				5BBEB7FE2376CEBD00B93F09 /* MainInterface.storyboard */,
 				5BBEB8012376CEBD00B93F09 /* Info.plist */,
+				5BA86A122376FC5500F7DD7D /* FileMetadata.swift */,
 			);
 			path = shareExtension;
 			sourceTree = "<group>";
@@ -228,6 +232,7 @@
 			files = (
 				5BA932952376BA780074C186 /* Document.swift in Sources */,
 				5BA932932376BA780074C186 /* DocumentViewController.swift in Sources */,
+				5BA86A142376FEF000F7DD7D /* FileMetadata.swift in Sources */,
 				5BA932912376BA780074C186 /* DocumentBrowserViewController.swift in Sources */,
 				5BA9328F2376BA780074C186 /* AppDelegate.swift in Sources */,
 			);
@@ -237,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BA86A132376FC5500F7DD7D /* FileMetadata.swift in Sources */,
 				5BBEB7FD2376CEBD00B93F09 /* ShareViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
