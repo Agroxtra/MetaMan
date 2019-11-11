@@ -14,7 +14,8 @@ The project is still in very early stages and will be treated like a side projec
 - Save Files, Photos, Videos via the files app
 
 ## current Status
-Development has not started yet, so it is currently still in the brainstorming phase.
+Prototyping phase started. I'm currently struggling to get the metadata for a image in the share sheet. 
+The App currently contains a very basic share sheet extension with a basic table view where the metadata will be displayed later on. 
 
 ## Technologies used
 - Swift 5
